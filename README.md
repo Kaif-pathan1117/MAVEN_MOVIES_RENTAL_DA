@@ -124,18 +124,18 @@ Retrieve customer first name, last name, and email ID.
 <img src="./CODE_Output/TOTAL_NUMBER_OF_MOVIES.png"/>&nbsp;
 
 ### 24. Movie Recommendations by Age Group
-<img src="./CODE_Output/TOTAL_NUMBER_OF_MOVIES.png"/>&nbsp;
+<img src="./CODE_Output/RECOMMENDATION_SYSTEM.png"/>&nbsp;
 
 ### 25. Films Inventory List
-<img src="./CODE_Output/TOTAL_NUMBER_OF_MOVIES.png"/>&nbsp;
+<img src="./CODE_Output/FILM_INVENTORY.png"/>&nbsp;
 
 ### 26. Actor Movie Count
-<img src="./CODE_Output/TOTAL_NUMBER_OF_MOVIES.png"/>&nbsp;
+<img src="./CODE_Output/ACTORS_NUMBER_OF_FILMS.png"/>&nbsp;
 
 ### 27. Number of Actors per Film
-<img src="./CODE_Output/TOTAL_NUMBER_OF_MOVIES.png"/>&nbsp;
+<img src="./CODE_Output/INVESTOR_REQUEST.png"/>&nbsp;
 
 ### 28. List of Staff and Advisors
-<img src="./CODE_Output/TOTAL_NUMBER_OF_MOVIES.png"/>&nbsp;
+<img src="./CODE_Output/CONFERENCE_LIST.png"/>&nbsp;
 
 ---
