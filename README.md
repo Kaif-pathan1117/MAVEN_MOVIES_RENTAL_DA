@@ -54,6 +54,7 @@ This repository contains SQL queries and corresponding visualizations for analyz
 
 ### 1. Customer Information for Marketing Team
 Retrieve customer first name, last name, and email ID.
+
 <img src="./CODE_Output/EMAIL_ID_LIST.png"/>&nbsp;
 
 
@@ -82,7 +83,7 @@ Retrieve customer first name, last name, and email ID.
 <img src="./CODE_Output/MOST_SPENDING_CUSTOMER.png"/>&nbsp;
 
 ### 10. Store with Most Revenue
-<img src="./CODE_Output/TOTAL_NUMBER_OF_MOVIES.png"/>&nbsp;
+<img src="./CODE_Output/MOST_REVENUE.png"/>&nbsp;
 
 ### 11. Monthly Rentals Count
 <img src="./CODE_Output/RENTALS_PER_MONTH.png"/>&nbsp;
@@ -97,13 +98,13 @@ Retrieve customer first name, last name, and email ID.
 <img src="./CODE_Output/OLD_CUSTOMER_OVER_5$.png"/>&nbsp;
 
 ### 15. Payments Over $5 for Specific Customers
-<img src="./CODE_Output/TOTAL_NUMBER_OF_MOVIES.png"/>&nbsp;
+<img src="./CODE_Output/PAYMENTS_OVER_$5.png"/>&nbsp;
 
 ### 16. Films with 'Behind the Scenes' Special Feature
-<img src="./CODE_Output/FILMS_WITH_SPECIAL_FEATURES.png/>&nbsp;
+<img src="./CODE_Output/FILMS_WITH_SPECIAL_FEATURES.png"/>&nbsp;
 
 ### 17. Unique Movie Ratings and Count
-<img src="./CODE_Output/RATINGWISE_MOVIES.png/>&nbsp;
+<img src="./CODE_Output/RATINGWISE_MOVIES.png"/>&nbsp;
 
 ### 18. Titles Count by Rental Duration
 <img src="./CODE_Output/RENTAL_DURATIONWISE_MOVIES.png"/>&nbsp;
@@ -121,7 +122,7 @@ Retrieve customer first name, last name, and email ID.
 <img src="./CODE_Output/TOTAL_NUMBER_OF_MOVIES.png"/>&nbsp;
 
 ### 23. Categorization of Movies by Length
-<img src="./CODE_Output/TOTAL_NUMBER_OF_MOVIES.png"/>&nbsp;
+<img src="./CODE_Output/SLICED_BY_RENTAL_RATE.png"/>&nbsp;
 
 ### 24. Movie Recommendations by Age Group
 <img src="./CODE_Output/RECOMMENDATION_SYSTEM.png"/>&nbsp;
