@@ -68,7 +68,7 @@ Retrieve customer first name, last name, and email ID.
 <img src="./CODE_Output/RATING_WISE_COUNT.png"/>&nbsp;
 
 ### 5. Most Prevalent Rating per Store
-<img src="./CODE_Output/TOTAL_FILMS.png"/>&nbsp;
+<img src="./CODE_Output/rating_to_store.png"/>&nbsp;
 
 ### 6. List of Films by Name, Category, and Language
 <img src="./CODE_Output/CATEGORY_NAME.png"/>&nbsp;
